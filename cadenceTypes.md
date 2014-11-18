@@ -3,6 +3,8 @@ layout: post
 title: Classical cadence types
 ---
 
+I really like Authentic Cadences, and I hate the others. 
+
 A *cadence* is a point of arrival that punctuates the end of a musical unit, such as a phrase, theme, large formal section, or movement. A cadence is at once a harmonic, melodic, rhythmic, and formal event, but cadences tend to be grouped according to different ways in which harmony and melody articulate that point of arrival.
 
 ## Authentic and half cadences
