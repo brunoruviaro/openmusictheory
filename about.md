@@ -10,7 +10,7 @@ image:
 
 ## Inverted (or flipped) music theory
 
-This AMAZING textbook is meant to support *active student engagement with music* in the theory classroom. That means that this text is meant to take a back seat to student music making (and breaking). It is not the center of the course.
+This *WOW* textbook is meant to support *active student engagement with music* in the theory classroom. That means that this text is meant to take a back seat to student music making (and breaking). It is not the center of the course.
 
 The three original authors use this textbook in the context of  "inverted" or "flipped" courses, often following an [inquiry-based model](http://www.flipcamp.org/engagingstudents/shafferpt3.html). 
 
